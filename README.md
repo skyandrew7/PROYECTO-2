@@ -22,22 +22,7 @@ Descripción: Indica el vehiculo que ocupaba la persona accidentada al moemento 
 Tipo de dato: Numérico.
 Ejemplo de valores: 1, 2.
 
-### AAAA_y:
 
-Descripción: Año en el que ocurrió el accidente.
-Tipo de dato: Numérico.
-Ejemplo de valores: 2022, 2023.
-### MM_y:
-
-Descripción: Mes en el que ocurrió el accidente.
-Tipo de dato: Numérico.
-Ejemplo de valores: 01 (enero), 12 (diciembre).
-
-###DD_y:
-
-Descripción: Día en el que ocurrió el accidente.
-Tipo de dato: Numérico.
-Ejemplo de valores: 01, 15.
 
 ### LUGAR_DEL_HECHO:
 
