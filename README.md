@@ -2,7 +2,7 @@
 
 ## Descripción General
 
-Esta base de datos contiene información sobre siniestros viales y víctimas en un área geográfica específica. Se incluyen detalles sobre las características de los accidentes, los tipos de víctimas, los tipos de vehículos involucrados, la localización de los siniestros, y otros datos clave. Estos datos son útiles para analizar incidentes viales y calcular indicadores de seguridad vial, como la tasa de homicidios en siniestros, accidentes mortales de motociclistas, y accidentes mortales en avenidas.
+Esta base de datos contiene información sobre siniestros viales y víctimas en un área geográfica específica. Se incluyen detalles sobre las características de los accidentes, los tipos de víctimas, los tipos de vehículos involucrados, la localización de los siniestros, y otros datos clave. Estos datos son útiles para analizar incidentes viales y calcular indicadores de seguridad vial, c
 
 ## Propósito del Dataset
 
